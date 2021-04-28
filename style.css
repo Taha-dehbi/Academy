@@ -101,6 +101,9 @@ nav .fas{
         overflow-x: hidden;
         background-color: white;
     }
+    .header{
+    overflow-x:hidden;
+    }
     .text-box h1{
         font-size: 35px;
     }
